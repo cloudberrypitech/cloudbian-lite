@@ -1,0 +1,1 @@
+default = ("Helvetica", 12)
